@@ -5,7 +5,7 @@ The MethodsDBCH software package can be used by specialists interested in select
 
 ## Added Methods
 ### Methods for testing numbers for primality
-- Fermat's primality test
+- Fermat test
 - Solovay-Strassen test
 - Lucas-Lehmer test
 - Miller-Rabin test
