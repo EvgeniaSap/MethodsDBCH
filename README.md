@@ -13,9 +13,9 @@ The MethodsDBCH software package can be used by specialists interested in select
   - number of execution stages;
   - the amount of occupied internal and external memory;
   - computational complexity value (O- and L-notations).
-- output of reports containing detailed information about the methods;
-- output of reports on changes that are made to the register of methods by users;
-- user data management;
+- Output of reports containing detailed information about the methods.
+- Output of reports on changes that are made to the register of methods by users.
+- User data management.
 ## Added Methods
 ### Methods for testing numbers for primality
 - Fermat test
