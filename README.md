@@ -5,7 +5,7 @@ The MethodsDBCH software package can be used by specialists interested in select
 ## Functionality
 - Сollection and processing of information about methods of computation in large computer ranges.
 - Сollection of information about
-- - the names of areas of application of methods;
+ - the names of areas of application of methods;
 • collection of information about the tasks in which the methods are applied;
 • collection of information about theorems related to methods;
 • search for methods according to specified criteria;
