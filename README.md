@@ -7,7 +7,7 @@ The MethodsDBCH software package can be used by specialists interested in select
 ### Methods for testing numbers for primality
 - Fermat's primality test
 - Solovay-Strassen test
-- Lucas-Lemer test
+- Lucas-Lehmer test
 - Miller-Rabin test
 ### Factorization methods
 - Pollard ρ-method
