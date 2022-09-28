@@ -1,7 +1,0 @@
-[Connect_PostgreSQL]
-postgresql_host =
-postgresql_ip = 192.168.56.101
-postgresql_port = 5432
-postgresql_user = evgenia
-postgresql_userpsw = 12345
-postgresql_db_name = methodsdbch
