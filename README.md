@@ -11,6 +11,6 @@ The MethodsDBCH software package can be used by specialists interested in select
 - Miller-Rabin test
 ### Factorization methods
 - Pollard ρ-method
-- Lenstra's factorization algorithm
+- Lenstra factorization algorithm
 - Basic QS method
 - Basic NFS method
