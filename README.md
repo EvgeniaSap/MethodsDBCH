@@ -27,6 +27,8 @@ The MethodsDBCH software package can be used by specialists interested in select
 1. In the "Params" folder and find the `BDConnectParams.prm` file.
 2. In the `BDConnectParams.prm` file, enter the server `IP-address`, database `user name` and `password`.
 3. Find the `MethodsDBCH.exe` and run the application.
+## Using the Proforientir
+By default, an account with access type "Main administrator" is registered in the system with login: `admin`, password: `1234`. You can change the personal information set by default in your personal account after authorization.
 ## Added Methods
 ### Methods for testing numbers for primality
 - Fermat test
