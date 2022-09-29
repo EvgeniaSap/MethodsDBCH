@@ -18,7 +18,9 @@ The MethodsDBCH software package can be used by specialists interested in select
 - User data management.
 ##Building and running the project
 ###Server
+:)
 ###PC
+(:
 ## Added Methods
 ### Methods for testing numbers for primality
 - Fermat test
