@@ -29,6 +29,8 @@ The MethodsDBCH software package can be used by specialists interested in select
 3. Find the `MethodsDBCH.exe` and run the application.
 ## Using the Proforientir
 By default, an account with access type "Main administrator" is registered in the system with login: `admin`, password: `1234`. You can change the personal information set by default in your personal account after authorization.
+
+See the ![Use Case Diagram](https://github.com/EvgeniaSap/MethodsDBCH/issues/1#issue-1391509247) for details on the available features.
 ## Added Methods
 ### Methods for testing numbers for primality
 - Fermat test
