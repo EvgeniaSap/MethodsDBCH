@@ -18,7 +18,10 @@ The MethodsDBCH software package can be used by specialists interested in select
 - User data management.
 ## Building and running the project
 ### Server
-:)
+1. Install and run `PostgreSQL` on the server.
+2. Create a database user and set its password on the server.
+3. Install and run [pgAdmin](https://www.pgadmin.org/) on PC.
+4. 
 ### PC
 (:
 ## Added Methods
