@@ -24,7 +24,9 @@ The MethodsDBCH software package can be used by specialists interested in select
 4. Connect to the server by IP address on behalf of the created user.
 5. Import from the "ServerMethodsDBCH" folder the `methodsdbch.sql` file containing the database of the software package.
 ### PC
-(:
+1. In the "Params" folder and find the `BDConnectParams.prm` file.
+2. In the `BDConnectParams.prm` file, enter the server `IP-address`, database `user name` and `password`.
+3. Find the `MethodsDBCH.exe` and run the application.
 ## Added Methods
 ### Methods for testing numbers for primality
 - Fermat test
