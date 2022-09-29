@@ -16,10 +16,10 @@ The MethodsDBCH software package can be used by specialists interested in select
 - Output of reports containing detailed information about the methods.
 - Output of reports on changes that are made to the register of methods by users.
 - User data management.
-##Building and running the project
-###Server
+## Building and running the project
+### Server
 :)
-###PC
+### PC
 (:
 ## Added Methods
 ### Methods for testing numbers for primality
