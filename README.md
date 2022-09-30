@@ -33,8 +33,8 @@ By default, an account with access type "Main administrator" is registered in th
 See the ![Use Case Diagram](https://github.com/EvgeniaSap/MethodsDBCH/issues/1#issue-1391509247) for details on the available features.
 ## General description of the project
 You can see:
-- database ER-diagram; 
-- schematic description Class Diagram.
+- database ![ER-diagram](https://github.com/EvgeniaSap/MethodsDBCH/issues/2#issue-1391642510); 
+- schematic description ![Class Diagram](https://github.com/EvgeniaSap/MethodsDBCH/issues/3#issue-1391643299).
 
 ## Added Methods
 ### Methods for testing numbers for primality
